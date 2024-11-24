@@ -38,3 +38,7 @@ Bu projede metotlar ile geri değer döndürme, parametre kullanma ve void metot
 ## Proje 9: Database Project (Veri Tabanı Projesi)
 
 Bu projede SQL veritabanı ile bağlantı kurmayı, veri çekmeyi ve DataTable kullanarak verileri listelemeyi öğrendim. Ayrıca, ADO.NET ile temel veri tabanı işlemlerini gerçekleştirme pratiği yaptım.
+
+## Proje 10: CRUD İşlemleri
+
+Bu projede, temel CRUD (Create, Read, Update, Delete) işlemlerini gerçekleştirerek bir veritabanı ile etkileşim sağladım. SQL bağlantısı kullanarak ürün ve kategori bilgilerini ekleme, listeleme, güncelleme ve silme işlemlerini uyguladım.
